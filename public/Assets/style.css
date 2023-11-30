@@ -1,0 +1,104 @@
+a{
+    text-decoration: none;
+    color: #4F4F4F;
+}
+.logout{
+background-color: #5D9C2E !important;
+}
+.btn{
+    background-color: #4F4F4F;
+}
+p{
+    font-size: 14px;
+}
+.d-div{
+    border-top: red solid 1px;
+    width: 98%;
+}
+.dd-div{
+    border-top: red solid 1px;
+    border-bottom: #e6e3e3 solid 1px;
+    background-color: #F7F7F7;
+    width: 100%;
+}
+.card{
+    background: #F7F7F7;
+    border: none;
+}
+.a-class{
+    font-size: 13px!important;
+    font-weight:600;
+}
+button{
+    background-color: #E66B02;
+}
+.p-text{
+    font-size: 18px;
+}
+.class-heading{
+    font-size: 13px;
+    color: #2352A4;
+}
+.class-heading:hover{
+    text-decoration: underline;
+}
+.vehicle{
+    font-size: 12px;
+    font-weight: 700;
+    color: #555555;
+}
+.price
+{
+    color: #008000;
+    font-size: 12px;
+    font-weight: 600;
+}
+.saving
+{
+    color: 888888;
+}
+.accordion-button{
+    background-color:#555555;
+}
+.accordion-button{
+    font-size: 13px;
+    color: white;
+    font-weight: 700;
+    padding: 8px!important;  
+    background-color: #555555; 
+}
+.accordion-button:focus {
+    background-color: #ffffff;
+    color: #ffffff;
+}
+.bg-white   {
+    background-color: #555555 !important;
+    color: white!important; 
+}
+.inner-link{
+    font-size: 13px;
+    font-weight: 600;
+}
+.sub-heading{
+    color: #E66B02;
+    font-size: 12px;
+}
+#sub-link{
+    font-size: 12px;
+    color: white;
+}
+.Privacy{
+    background-color: black;
+    padding: 10px;
+}
+.footer-3{
+    background-color: #E66B02;
+}
+ .navbar-toggler[aria-expanded="true"] + .collapse .btn {
+    background-color: transparent !important;
+}
+@media (max-width: 991.98px) {
+    .navbar-toggler[aria-expanded="true"] + .collapse .btn {
+        text-align: left !important;
+    }
+}
